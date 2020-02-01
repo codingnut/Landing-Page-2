@@ -1,2 +1,2 @@
-# codingnut-Landing-Page-MorningBullets-JeffBrown
+# MorningBullets-JeffBrown
 Landing Page HTML/CSS
